@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Leo Lim from South Korea studying computer science
-- 👀 I’m interested in web app development as well as analyzing data and machine learning
-- 🌱 I’m currently learning front-side web app development but wanna learn back-end, cloud, and machine learning.
+- 👋 Hi, I’m Leo Lim majoring in computer science.
+- 👀 I’m interested in web and mobile application development, especially server API development.
+- 🌱 I’m currently learning web app development but wanna explore cloud service systems and machine learning as well.
 - 📫 How to reach me: arch4614s@gmail.com. I'd like to talk about interesting projects, so please feel free to reach out!
 - 😄 Pronouns: he/him
 
